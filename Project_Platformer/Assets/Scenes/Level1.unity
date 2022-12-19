@@ -221,7 +221,7 @@ GameObject:
   - component: {fileID: 394643739}
   m_Layer: 0
   m_Name: Ground
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22573,7 +22573,7 @@ GameObject:
   - component: {fileID: 973972244}
   m_Layer: 0
   m_Name: Grid
-  m_TagString: Untagged
+  m_TagString: Grid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22707,6 +22707,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 7480881050841227080, guid: ee5a93b5ceca5194aa6dc453bf069790, type: 3}
+      propertyPath: jumpForse
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ee5a93b5ceca5194aa6dc453bf069790, type: 3}
 --- !u!1 &1537891675
@@ -22722,7 +22726,7 @@ GameObject:
   - component: {fileID: 1537891677}
   m_Layer: 4
   m_Name: Background
-  m_TagString: Untagged
+  m_TagString: Background
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
