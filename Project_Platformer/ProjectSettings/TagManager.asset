@@ -8,6 +8,9 @@ TagManager:
   - Coin
   - Enemy
   - Button
+  - Background
+  - Ground
+  - Grid
   layers:
   - Default
   - TransparentFX
