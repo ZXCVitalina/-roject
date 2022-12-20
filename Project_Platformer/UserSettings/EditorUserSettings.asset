@@ -9,7 +9,11 @@ EditorUserSettings:
       value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
       flags: 0
     RecentlyUsedSceneGuid-1:
+<<<<<<< HEAD
       value: 000155505c0c59580b5c5a7b42705d444415192e292e7660287f4f60b3b8656f
+=======
+      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+>>>>>>> parent of 39a32bd (Enemy)
       flags: 0
     RecentlyUsedSceneGuid-2:
       value: 075550505c500d0e09580f72447b5d4417164e797b2a27352f704f64bbe4306d

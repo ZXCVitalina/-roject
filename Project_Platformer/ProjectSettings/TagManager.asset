@@ -7,10 +7,13 @@ TagManager:
   - Mashroom
   - Coin
   - Enemy
+<<<<<<< HEAD
   - Button
   - Background
   - Ground
   - Grid
+=======
+>>>>>>> parent of 39a32bd (Enemy)
   layers:
   - Default
   - TransparentFX
