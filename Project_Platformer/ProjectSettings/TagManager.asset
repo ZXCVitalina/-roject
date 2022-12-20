@@ -7,6 +7,10 @@ TagManager:
   - Mashroom
   - Coin
   - Enemy
+  - Button
+  - Background
+  - Ground
+  - Grid
   layers:
   - Default
   - TransparentFX
