@@ -1,0 +1,1553 @@
+fileFormatVersion: 2
+guid: b8058f9ecf0128e4ab8992cf923b86a0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644c2d5969abefe4aae300adc255712e
+      internalID: -320110010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 318
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd1137f71d26c24f9c3789485b9f2ca
+      internalID: 973177262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 318
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ef264c1cd5fe4c9fb8eef554a3cb8
+      internalID: -226415694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 318
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ded3ddf6030a246b303d357e5dc0a2
+      internalID: -2021929876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 317
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b749100b328dc4a43af8e988e05ad49b
+      internalID: 1590686605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 317
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed76b25e6b27e694fac2ca30e5788c3e
+      internalID: -564963123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 317
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1984e5a77d9ceef4b9653edd60fc0c4e
+      internalID: 885647299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 317
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27718d905fa2aab42b0a34e1e7caceeb
+      internalID: 1272613875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 252
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da94d666fffab8a41ae13111112c38f8
+      internalID: 172396162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 252
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d2a1a78dba6540afbc21ff48ade71
+      internalID: -809425323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 254
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76156202462aa7b4997a24587686e8ff
+      internalID: -78552411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 251
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0763d381ef088e4eb03b97eff45c3ca
+      internalID: 1601018436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c74bf416ed899a40b4761b0d2767a18
+      internalID: -1603209823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 253
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f1b612d369a6f4c87d47ace77405c1
+      internalID: -953311889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 174
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0fddaa6ca90fe48b5b36a020a93af8
+      internalID: 947571957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 174
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae213898b904f0f45bc535f8036eb6c8
+      internalID: -1147995680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 173
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350e67a87f19b0242bcf056624e05383
+      internalID: 707800328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 173
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126fd70e9e45e0347b4553012c6beaab
+      internalID: -1259000539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 121
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ae47bfa38ffc048b517955232edcc6
+      internalID: 234545221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 121
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d021e767a1b3ae45810c66fabd40077
+      internalID: -319638651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 121
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78414681b6d71448921bb72fe813d0a
+      internalID: -131970945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 122
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002f5e59c337bad42a9b4a0551db602f
+      internalID: 881357251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 121
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2a21e004d03ef4781ae8e3afaa5b48
+      internalID: -498142253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 121
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4a9494049287b4ea2338d74c3b9ef7
+      internalID: -412439406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 84
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1230a3c0383458d44bb93de2803249a8
+      internalID: -1069387790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 84
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5224bc9cbfbf844b4d0e29c561018e
+      internalID: -1923327779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 62
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cb18f89f8e0844b8dcebf4c9dae68c
+      internalID: -603448543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 62
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45bf21d8180b5d41b14e64f88af98e0
+      internalID: -76253804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 62
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2749b591858b147a75c9fed5ec29bb
+      internalID: 2085327365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 62
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bced8f3b9e92e4082ccf460a71b77c
+      internalID: 1805213544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_30
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 62
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b94b2516fbfc44fa306e282482a2f8
+      internalID: 809029917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 62
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45da61ab49f4e594b81017059d6823a7
+      internalID: 1628287494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 36
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9469f15e9cd74419e1968d07b33704
+      internalID: 785831903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bb8bd647c9de549a895ffd89830ea0
+      internalID: -660515270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 36
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d31bda81e3529141abb848b3c090835
+      internalID: -32326187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 36
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554985e34ac5f774596f41334abaf5c7
+      internalID: 1246998576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 36
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4685a5c946bce5e41ad9855d6aadd34c
+      internalID: -1149032197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_37
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 36
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f118846a4b6e79b4587f83c482f5d1fe
+      internalID: 793542222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca9b5db77ea49449823cf11e1e23038
+      internalID: -758479802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 16
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6effe5e0d4ae9534ba3785a6b8073d63
+      internalID: 1330019383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_40
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 16
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ed4c72047fbe241807360c166f71cc
+      internalID: -192286219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 16
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7634233805e08b645a5b0a136b11a350
+      internalID: -1272563724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 16
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f618d3576fe3d654e88e836675fde191
+      internalID: -959963772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 16
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910a1b7a58af1044d8edbc0ab4b10ae4
+      internalID: -385277534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 16
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8603f36538abf46b7d35b08345e769
+      internalID: 15538321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46cde9020b3b0f4aa3abcb166fe45dd
+      internalID: 1223511553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 16
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ddaa81869f450499aa4fe177c5f9d8
+      internalID: -662000325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_47
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 15
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccebc7a1143e6674fa56153b1f8946ac
+      internalID: 1356343727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 16
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a68a4d7d6aca4789fc27dd42c977c
+      internalID: -837354366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 16
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a878dc2cfc5980340912a18cb9425b48
+      internalID: -1214738626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_50
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 16
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba3702ee212b164da3cb5ccf94aa737
+      internalID: -1448390607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_51
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 14
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095d99e05dd9d794ba7015086db9c636
+      internalID: -1160142540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_52
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae49cf96c2256944c86694d13a62cf1b
+      internalID: -1384715759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_53
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 16
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b4623c40cef5749887cb82d169364f
+      internalID: -957705924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_54
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8542e24d90e791a44b604315f24dae54
+      internalID: 1964647258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_55
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a90bb01710646f428726c67f4f5fc98
+      internalID: -1071392494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_56
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1378562f8a2042c4db5ffda4c8e5a82c
+      internalID: -53067792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc45bbe1ebaee9e4b83bca758bae7c67
+      internalID: 1164603526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_58
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0079a555230204f9159748ffbeb5e6
+      internalID: 1458306687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea66250701f4224cb419394f31acd78
+      internalID: 704846406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_60
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16bdd85ae364ae4ca633b2e5865fe5e
+      internalID: 1273369825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_61
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876cabec27d0b894a8e135638f6e769f
+      internalID: 1385955376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_62
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ab2e9eca97014186f877fe0ceb9b2
+      internalID: 1959535625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_63
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f452e6231df1b464d99d1b0c1469a710
+      internalID: 1856187274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngaaa.com-1307313_64
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1856597b233898c48ab6483a852dff02
+      internalID: 952624007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngaaa.com-1307313_53: -957705924
+      pngaaa.com-1307313_56: -53067792
+      pngaaa.com-1307313_48: -837354366
+      pngaaa.com-1307313_2: -226415694
+      pngaaa.com-1307313_41: -1272563724
+      pngaaa.com-1307313_64: 952624007
+      pngaaa.com-1307313_32: 785831903
+      pngaaa.com-1307313_0: -320110010
+      pngaaa.com-1307313_5: -564963123
+      pngaaa.com-1307313_20: -131970945
+      pngaaa.com-1307313_25: -1923327779
+      pngaaa.com-1307313_46: -662000325
+      pngaaa.com-1307313_40: -192286219
+      pngaaa.com-1307313_61: 1385955376
+      pngaaa.com-1307313_14: 947571957
+      pngaaa.com-1307313_9: -809425323
+      pngaaa.com-1307313_54: 1964647258
+      pngaaa.com-1307313_52: -1384715759
+      pngaaa.com-1307313_63: 1856187274
+      pngaaa.com-1307313_6: 885647299
+      pngaaa.com-1307313_35: 1246998576
+      pngaaa.com-1307313_55: -1071392494
+      pngaaa.com-1307313_27: -76253804
+      pngaaa.com-1307313_44: 15538321
+      pngaaa.com-1307313_47: 1356343727
+      pngaaa.com-1307313_7: 1272613875
+      pngaaa.com-1307313_36: -1149032197
+      pngaaa.com-1307313_30: 809029917
+      pngaaa.com-1307313_24: -1069387790
+      pngaaa.com-1307313_28: 2085327365
+      pngaaa.com-1307313_42: -959963772
+      pngaaa.com-1307313_60: 1273369825
+      pngaaa.com-1307313_31: 1628287494
+      pngaaa.com-1307313_21: 881357251
+      pngaaa.com-1307313_13: -953311889
+      pngaaa.com-1307313_1: 973177262
+      pngaaa.com-1307313_3: -2021929876
+      pngaaa.com-1307313_58: 1458306687
+      pngaaa.com-1307313_12: -1603209823
+      pngaaa.com-1307313_29: 1805213544
+      pngaaa.com-1307313_11: 1601018436
+      pngaaa.com-1307313_8: 172396162
+      pngaaa.com-1307313_18: 234545221
+      pngaaa.com-1307313_17: -1259000539
+      pngaaa.com-1307313_23: -412439406
+      pngaaa.com-1307313_49: -1214738626
+      pngaaa.com-1307313_57: 1164603526
+      pngaaa.com-1307313_4: 1590686605
+      pngaaa.com-1307313_43: -385277534
+      pngaaa.com-1307313_10: -78552411
+      pngaaa.com-1307313_50: -1448390607
+      pngaaa.com-1307313_33: -660515270
+      pngaaa.com-1307313_45: 1223511553
+      pngaaa.com-1307313_39: 1330019383
+      pngaaa.com-1307313_38: -758479802
+      pngaaa.com-1307313_62: 1959535625
+      pngaaa.com-1307313_59: 704846406
+      pngaaa.com-1307313_26: -603448543
+      pngaaa.com-1307313_51: -1160142540
+      pngaaa.com-1307313_34: -32326187
+      pngaaa.com-1307313_16: 707800328
+      pngaaa.com-1307313_22: -498142253
+      pngaaa.com-1307313_19: -319638651
+      pngaaa.com-1307313_37: 793542222
+      pngaaa.com-1307313_15: -1147995680
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
