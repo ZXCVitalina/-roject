@@ -3,17 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Mashroom
-  - Coin
-  - Enemy
-<<<<<<< HEAD
-  - Button
-  - Background
-  - Ground
-  - Grid
-=======
->>>>>>> parent of 39a32bd (Enemy)
+  tags: []
   layers:
   - Default
   - TransparentFX
