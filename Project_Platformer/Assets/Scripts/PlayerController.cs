@@ -8,7 +8,8 @@ public class PlayerController : MonoBehaviour
     public float speed;
     public float jumpForse;
     public float score;
-   
+    public Text scoreText;
+
 
     private Rigidbody2D  rigidbody2D;
     private Animator animator;
@@ -21,8 +22,8 @@ public class PlayerController : MonoBehaviour
         rigidbody2D = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-        
-        
+        scoreText.text = score.ToString();
+
     }
 
     private void Update()
@@ -83,9 +84,7 @@ public class PlayerController : MonoBehaviour
     {
         score += count;
 
-        
-
-
+        scoreText.text = score.ToString();
     }
 
 

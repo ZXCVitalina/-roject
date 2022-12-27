@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Grid
+  - Background
+  - Mashroom
+  - Coin
   layers:
   - Default
   - TransparentFX

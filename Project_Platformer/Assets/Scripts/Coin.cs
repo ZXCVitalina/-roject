@@ -22,7 +22,7 @@ public class Coin : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             collision.GetComponent<PlayerController>().AddCoin(count);
-            audioSource.PlayOneShot(audioClip);
+            //audioSource.PlayOneShot(audioClip);
             Destroy(gameObject);
 
         }
